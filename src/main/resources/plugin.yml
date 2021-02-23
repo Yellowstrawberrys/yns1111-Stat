@@ -1,0 +1,15 @@
+name: Stat
+version: @version@
+main: stat.stat.Stat
+api-version: 1.16
+commands:
+  commands:
+    daytime:
+      description:
+        current time
+      statptest:
+        descripstion:
+          test
+
+
+
